@@ -39,3 +39,10 @@ Tipagem estática: ajuda a prevenir erros comuns de digitação e inconsistênci
 Orientação a objetos / Interfaces: facilita a organização do código, separando clientes, horários e serviços em módulos distintos.
 
 Compilação para JavaScript: permite rodar em qualquer ambiente Node.js, garantindo compatibilidade ampla.
+
+
+Alunos: Matheus Babler Silva RA: 2506053
+Gustavo facioni RA: 2506276
+Eduardo Padilha Escuer RA: 2500241
+Pedro Henrique Tonhon RA: 2507542
+Gabriel Canuto RA: 2505604
